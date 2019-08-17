@@ -1,0 +1,8 @@
+body{
+    background: url(images/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 730px;
+    position: relative; 
+}
